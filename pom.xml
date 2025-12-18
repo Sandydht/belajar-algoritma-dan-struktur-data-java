@@ -4,10 +4,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>belajar.java</groupId>
-  <artifactId>belajar-algoritma-dan-struktur-data-javva</artifactId>
+  <artifactId>belajar-algoritma-dan-struktur-data-java</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>belajar-algoritma-dan-struktur-data-javva</name>
+  <name>belajar-algoritma-dan-struktur-data-java</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
