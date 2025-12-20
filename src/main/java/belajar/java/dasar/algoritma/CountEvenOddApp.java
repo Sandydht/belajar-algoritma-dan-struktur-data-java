@@ -1,6 +1,6 @@
 package belajar.java.dasar.algoritma;
 
-public class CountEventOddApp {
+public class CountEvenOddApp {
     public static void main(String[] args) {
         int[] numbers1 = new int[]{ 1, 2, 3, 4, 5 };
         int[] numbers2 = new int[]{ 7, 3, 6, 7, 4, 12 };
